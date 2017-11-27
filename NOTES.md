@@ -1,6 +1,7 @@
 # Josh Leong g64 Galvanize Notes
 
-``` var animals = [
+``` 
+var animals = [
   { name: 'Fluffykins', species: 'rabbit' },
   { name: 'Caro', species: 'dog' },
   { name: 'Hamilton', species: 'dog' },
